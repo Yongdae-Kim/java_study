@@ -1,3 +1,3 @@
 # Jeju Univ Cafeteria Menu
 
-###sing 'jericho-html-3.1' Libarary
+###using 'jericho-html-3.1' Libarary
