@@ -34,7 +34,7 @@ public class CustomerDialog extends JFrame implements ActionListener {
 	private void showForm() {
 		setLayout(null);
 
-		String comment = "analyzing the system... plz wait a minute";
+		String comment = "analyzing... plz wait a minute";
 		tools.makeJLabel(comment, 25, 15, 350, 30);
 
 		show = tools.makeJButton("show", 160, 70, 80, 30, this);
